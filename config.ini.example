@@ -1,0 +1,12 @@
+{
+    "token": "DISCORD BOT TOKEN HERE",
+    "channels": [
+        "list",
+        "of",
+        "channel",
+        "ids",
+        "to",
+        "clean",
+        "nightly"
+    ]
+}
