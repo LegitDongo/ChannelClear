@@ -7,6 +7,10 @@
         "ids",
         "to",
         "clean",
-        "nightly"
+        "nightly",
+        {
+            "id": "you can also include an object like this so it uses the specified timezone",
+            "timezone": "https://en.wikipedia.org/wiki/List_of_tz_database_time_zones - you want the 'TZ database name' column"
+        },
     ]
 }
